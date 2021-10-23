@@ -12,3 +12,5 @@ def model3():
 model1()
 model2()
 model3()
+
+print("model2 is performing the best")
