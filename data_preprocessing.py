@@ -9,5 +9,3 @@ def sum(a,b):
     return a+b
 
 print(sum(3,4))
-
-print("added thenew function of sum in preprocessing code which is not required")
